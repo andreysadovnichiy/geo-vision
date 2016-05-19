@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="muleteer:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="driver-1.1.0-RELEASE.war">
+      <element id="artifact" artifact-name="muleteer:war exploded" />
+    </root>
+  </artifact>
+</component>
